@@ -50,7 +50,6 @@ section img {
 }
 .pricing div img {
 	float: none !important;
-	border: none;
 }
 .pricing div h3 {
 	font-size: 1.3em;
@@ -65,11 +64,11 @@ section img {
 .pricing div:nth-child(3) h3 {
 	border-top: 10px solid #685288;
 }
-.pricing div:nth-child(4) {
-	padding-top: 33px;
-}
 .pricing div:nth-child(4) h3 {
 	border-top: 10px solid #000;
+}
+.pricing div:nth-child(4) {
+	padding-top: 33px;
 }
 #vprospect, #vconvert, #vretain {
 	font-weight: bold;	
